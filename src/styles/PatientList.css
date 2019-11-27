@@ -1,0 +1,5 @@
+.PatientList {
+    grid-area: L;
+    height: 110vh;
+    border-right: 2px solid black;
+}

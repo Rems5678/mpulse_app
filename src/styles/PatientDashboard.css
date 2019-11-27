@@ -1,0 +1,8 @@
+.PatientDashboard {
+    display: grid;
+    grid-template-columns: minmax(125px, .75fr) minmax(250px, 2.25fr);
+    grid-template-areas: 
+    "L F"
+    "L F"
+    "L F";
+}
